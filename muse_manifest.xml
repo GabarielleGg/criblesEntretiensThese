@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://gabariellegg.github.io/criblesEntretiensThese" resolutions="1x" timestamp="1624188748320">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://gabariellegg.github.io/criblesEntretiensThese" resolutions="1x" timestamp="1624189008148">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_a-master.css" crc="155177466" ref="index"/>
@@ -19,5 +19,5 @@
     <file name="logoparagraphe.jpg" crc="463479423" seo="true" ref="index"/>
     <file name="logo-ulaval-reseaux-sociaux.jpg" crc="4181026837" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4258349157" seo="true" mt="1624188736266" redirect="true"/>
+  <file name="index.html" crc="4075466196" seo="true" mt="1624188985135" redirect="true"/>
 </manifest>
