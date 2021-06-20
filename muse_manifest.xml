@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://gabariellegg.github.io/criblesEntretiensThese" resolutions="1x" timestamp="1624187808235">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="493107100" ref="index"/>
+    <file name="index.css" crc="4232313518" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="svg-collé-1920-x-131.svg" crc="4118243682" seo="true" ref="index"/>
+    <file name="svg collé 1920 x 131_poster_.png" crc="253204359" ref="index"/>
+    <file name="svg-collé-184-x-80.svg" crc="491031373" seo="true" ref="index"/>
+    <file name="svg collé 184 x 80_poster_.png" crc="294307511" ref="index"/>
+    <file name="logop8.jpg" crc="237199142" seo="true" ref="index"/>
+    <file name="logoparagraphe.jpg" crc="463479423" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4217524628" seo="true" mt="1624187774124" redirect="true"/>
+</manifest>
